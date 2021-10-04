@@ -9,3 +9,4 @@ So the process in captha is the server generates new set of words and we have to
 captcha can be of many types for example image,audio,puzzle,visual detection,finding a certain object etc.
 
 In this repo we are going to use a python module to design a custom captcha maker.
+Don't get your hopes high this isn't any fancy object detection captcha but just plain ordinary image recognition captcha.
