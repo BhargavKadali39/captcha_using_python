@@ -10,3 +10,5 @@ captcha can be of many types for example image,audio,puzzle,visual detection,fin
 
 In this repo we are going to use a python module to design a custom captcha maker.
 Don't get your hopes high this isn't any fancy object detection captcha but just plain ordinary image recognition captcha.
+
+The requirements to create it is a python module called captcha.
