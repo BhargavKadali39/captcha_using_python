@@ -17,3 +17,4 @@ Command to install it is
 
     pip install captcha
 
+Note: any image generated will get stored in the same location where the program exists.
