@@ -1,4 +1,4 @@
-
+#this program is used to genarate captcha
 from captcha.image import ImageCaptcha
 image = ImageCaptcha(width= 300,height = 100)
 captcha_text = 'my captcha'
